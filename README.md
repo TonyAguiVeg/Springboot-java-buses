@@ -1,5 +1,5 @@
 
-PROYECTO BUSES 1/2
+Aplicación FullStack para  buses y sus marcas asociadas, PARTE 1/2 BACK
 Backend (Spring Boot)
 ✅ Terminado y funcional
 
